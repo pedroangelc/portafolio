@@ -17,13 +17,13 @@ Este portafolio reúne casos prácticos orientados a análisis, calidad de datos
   Limpieza, depuración, KPIs, fórmulas avanzadas y visualización.
 
 ### Power BI
-*(Pendiente — se añadirá un proyecto en el siguiente paso)*
+*Pendiente — se añadirá un proyecto con ejemplos y archivos*
 
 ### SQL
-*(Pendiente — se añadirá carpeta con ejemplos y consultas r*
+*(Pendiente — se añadirá carpeta con ejemplos y consultas*
 
 ## Contacto
 Pedro A Campos | 
-pedroangelc@msn.com |
-www.linkedin.com/in/pedroangelc/
+**[correo](pedroangelc@msn.com)** | 
+**[Linkedin](www.linkedin.com/in/pedroangelc/)**
 
