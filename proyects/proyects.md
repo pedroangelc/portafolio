@@ -1,4 +1,4 @@
 ## Proyectos
-# [Excel](Excel/readme.md)
-# [Power BI](PowerBI/readme.md)
-# [SQL](SQL/readme.md)
+# [Excel](Excel/index.md)
+# [Power BI](PowerBI/index.md)
+# [SQL](SQL/index.md)
