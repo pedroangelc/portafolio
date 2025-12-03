@@ -11,10 +11,10 @@ Bienvenido a mi portafolio. Aquí muestro proyectos creados con Excel, Power BI 
 
 ## [Proyectos](proyects/proyects.md)
 ### Dasboards y reportes financieros en Excel
-- Rentabilidad [Descripción](Excel/rentabilidad.md) - 
-  [Archivo](Excel/Rentabilidad.xlsx)
-- Venta general [Descripción](Excel/VentaGeneral.md) - [Archivo](/Excel/VentaGeneral2022agosto.xlsx)
-- Altas y nueva venta  [Descripción](NuevaVenta,md) - [Archivo](/Excel/AltasNuevaNentaAgosto.xlsx)
+- Rentabilidad [Descripción](proyects/Excel/rentabilidad.md) - 
+  [Archivo](proyects/Excel/Rentabilidad.xlsx)
+- Venta general [Descripción](proyects/Excel/VentaGeneral.md) - [Archivo](proyects/Excel/VentaGeneral2022agosto.xlsx)
+- Altas y nueva venta  [Descripción](proyects/Excel/NuevaVenta,md) - [Archivo](proyects/Excel/AltasNuevaNentaAgosto.xlsx)
 ### Dashboard en Power BI (En proceso de carga)
 ### Consultas SQL (En proceso)
 
