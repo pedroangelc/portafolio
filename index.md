@@ -1,9 +1,16 @@
-# Portafolio de Pedro
+# Portafolio profesional de Pedro Campos
 
-Este es mi portafolio profesional de análisis de datos y proyectos en Excel.
+Bienvenido a mi portafolio. Aquí muestro proyectos creados con Excel, Power BI y SQL.
 
-## Secciones
-- Sobre mí
-- Habilidades
-- Proyectos (pendiente de agregar)
-- Contacto
+## Sobre mí
+- Líder versátil en logística, soporte técnico, gestión operativa. Excel avanzado, análisis de datos, optimización de procesos. Doy soluciones. Transformo información en decisiones que mejoran eficiencia y resultados.
+- Excel avanzado
+- Power BI intermedio.
+- SQL básico.
+
+## Proyectos
+- Dasboards financieros en Excel
+- Próximamente: dashboard en Power BI.
+- Próximamente: consultas SQL.
+
+
