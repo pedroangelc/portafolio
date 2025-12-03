@@ -19,7 +19,7 @@ Mostrar la ceratividad para la visualización de los datos y la funcionalidad de
 - Reporte / Dashboard: Visalización de rentabilidad por área geográfica (estado, región), gerencia, ejecutivo, centro de proceso, cliente; utilidad anual, calificación de centro proceso según su rentabilidad.
 
 ## Screenshots
-- [Rentabilidad](proyects/screenshots/Rentabilidad.jpg)
+- [Rentabilidad](PedroCampos_Portafolio/proyects/screenshots/Rentabilidad.jpg)
 - [Altas y Nueva Venta Agosto 01](proyects/screenshots/AltasNuevaVentaAgosto01.jpg)
 - [Altas y Nueva Venta Agosto 02](proyects/screenshots/AltasNuevaVentaAgosto02.jpg)
 - [Altas y Nueva Venta Agosto 03](proyects/screenshots/AltasNuevaVentaAgosto03.jpg)
