@@ -10,10 +10,10 @@ Este portafolio reúne casos prácticos orientados a análisis, calidad de datos
 - Análisis descriptivo e interpretación de datos
 - Documentación y presentación de hallazgos
 
-## Proyectos
+## [Proyectos](readme.md)
 
-### Excel
-- **[Proyecto Excel #1: Análisis y dashboard](projects/excel/)**  
+### [Excel](proyects/Excel/readme.md)
+- **[Proyectos en Excel: Análisis, reportes y dashboards](projects/excel/)**  
   Limpieza, depuración, KPIs, fórmulas avanzadas y visualización.
 
 ### Power BI
