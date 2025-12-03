@@ -9,7 +9,7 @@ Bienvenido a mi portafolio. Aquí muestro proyectos creados con Excel, Power BI 
 - SQL básico
 - Aprendiendo Python y R
 
-## Proyectos
+## [Proyectos](/proyects)
 ### Dasboards y reportes financieros en Excel
 - Rentabilidad [Descripción](proyects/rentabilidad.md) - 
   [Archivo](Excel/Rentabilidad.xlsx)
