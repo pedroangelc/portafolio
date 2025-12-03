@@ -5,8 +5,9 @@ Bienvenido a mi portafolio. Aquí muestro proyectos creados con Excel, Power BI 
 ## Sobre mí
 - Líder versátil en logística, soporte técnico, gestión operativa. Excel avanzado, análisis de datos, optimización de procesos. Doy soluciones. Transformo información en decisiones que mejoran eficiencia y resultados.
 - Excel avanzado
-- Power BI intermedio.
-- SQL básico.
+- Power BI intermedio
+- SQL básico
+- Aprendiendo Python y R
 
 ## Proyectos
 ### Dasboards y reportes financieros en Excel
