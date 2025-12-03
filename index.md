@@ -9,10 +9,10 @@ Bienvenido a mi portafolio. Aquí muestro proyectos creados con Excel, Power BI 
 - SQL básico.
 
 ## Proyectos
-- Dasboards financieros en Excel. - [Rentabilidad](PortafolioDePedroC/proyects/Excel
+- Dasboards financieros en Excel - [Rentabilidad](PortafolioDePedroC/proyects/Excel
 /Rentabilidad.xlsx)
-- Próximamente: dashboard en Power BI. - [Venta general](PortafolioDePedroC/proyects/Excel
+- Próximamente: dashboard en Power BI - [Venta general](PortafolioDePedroC/proyects/Excel
 /Venta general 2022 agosto.xlsx)
-- Próximamente: consultas SQL. - [Nueva venta](proyects/Excel/Altas y Nueva venta agosto.xlsx)
+- Próximamente: consultas SQL - [Nueva venta](proyects/Excel/Altas y Nueva venta agosto.xlsx)
 
 
