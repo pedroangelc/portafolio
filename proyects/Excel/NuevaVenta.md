@@ -20,19 +20,18 @@ Poporcionar visibilidad de:
 
 ## Screenshots
 <div style="top: 10px; right: 10px;">
-  <a href="Altas_y_nueva_venta_Agosto01.jpg" target="_blank">
-    <img src="Altas_y_nueva_venta_Agosto01.jpg" style="width:420px; height:auto; border-radius:8px;">
+  <a href="AltasNuevaVenta01.jpg" target="_blank">
+    <img src="AltasNuevaVenta01.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
-  <a href="Altas_y_nueva_venta_Agosto02.jpg" target="_blank">
-    <img src="Altas_y_nueva_venta_Agosto02.jpg" style="width:420px; height:auto; border-radius:8px;">
+  <a href="AltasNuevaVenta02.jpg" target="_blank">
+    <img src="AltasNuevaVenta02.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
-  <a href="Altas_y_nueva_venta_Agosto03.jpg" target="_blank">
-    <img src="Altas_y_nueva_venta_Agosto03.jpg" style="width:420px; height:auto; border-radius:8px;">
+  <a href="AltasNuevaVenta03.jpg" target="_blank">
+    <img src="AltasNuevaVenta03.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
-</div>
+</div>  
 
-
-[Abrir archivo online](https://1drv.ms/x/c/95cfc766c099b238/EYU2ndqeu8xArEYhAH2KQl4BHenisIhzbUvCghriQRYKag?e=og8UH2)  
+[Abrir archivo online](https://1drv.ms/x/c/95cfc766c099b238/EYU2ndqeu8xArEYhAH2KQl4BHenisIhzbUvCghriQRYKag?e=WNUVdg)  
 [Descargar archivo](proyects/Excel/AltasNuevaNentaAgosto.xlsx)
 
 ## [← Regresar a Proyectos/Excel](../Excel/index.md)
