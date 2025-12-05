@@ -1,4 +1,4 @@
-# Rentabilidad – Dashboard en Excel
+# Dashboard - Rentabilidad
 
 ## Descripción
 Tablero con mapa geográfico en el que se muestran por separadao y en la misma pantalla: rentabilidad, utilidad y porcentage de crecimiento. Segmentación ineractiva por región y por cliente, así como calificación por centro de proceso; con respecto al año anterior.
