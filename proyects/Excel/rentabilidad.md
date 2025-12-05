@@ -21,6 +21,7 @@ Poporcionar la visibilidad requerida de la situación financiera con respecto a 
 <div style="top: 10px; right: 10px;">
   <a href="Rentabilidad.jpg" target="_blank">
   <img src="Rentabilidad.jpg" style="width:220px; height:auto; border-radius:8px;">
+    <a/>
 </div>
 
 ## Descargar archivo
