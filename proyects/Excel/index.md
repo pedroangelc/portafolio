@@ -28,9 +28,9 @@ Mostrar la ceratividad para la visualización de los datos y la funcionalidad de
 - [Venta general Region/Gerencia/Ejecutivo](../screenshots/VentaRegion-Gerencia-Ejecutivo.jpg)
 
 ## Archivos
-- Rentabilidad [Descripción](../proyects/Excel/rentabilidad.md) - [Archivo](../proyects/Excel/Rentabilidad.xlsx)
-- Venta general [Descripción](../proyects/Excel/VentaGeneral.md) - [Archivo](../proyects/Excel/VentaGeneral2022agosto.xlsx)
-- Altas y nueva venta  [Descripción](../proyects/Excel/NuevaVenta.md) - [Archivo](../proyects/Excel/AltasNuevaNentaAgosto.xlsx)
+- Rentabilidad [Descripción](../Excel/rentabilidad.md) - [Archivo](../Excel/Rentabilidad.xlsx)
+- Venta general [Descripción](../Excel/VentaGeneral.md) - [Archivo](../Excel/VentaGeneral2022agosto.xlsx)
+- Altas y nueva venta  [Descripción](../Excel/NuevaVenta.md) - [Archivo](../Excel/AltasNuevaNentaAgosto.xlsx)
 
 ## Abrir con:
 - Excel 365 o compatible
