@@ -1,4 +1,4 @@
-# Venta general 2022 – Reporte en Excel
+# Venta general 2022 – Dashboard
 
 ## Descripción
 Comparativa de venta general y por cliente de enero a agosto, realizando la comparativa del total acumulado con el año anterior en el mismo mes y con el mes anterior inmediato. CAntidad en la gráfica y porcentaje, e indicador, en la tabla informativa.
@@ -16,7 +16,12 @@ Comparativa de venta general y por cliente de enero a agosto, realizando la comp
 ## Resultados
 Porporcionar visibilidad gráfica de la venta del periodo solicitado para realizar la comparación con el fin de tomar desiciones estratégicas.
 
-## Archivos
-- [Venta General 2022](proyects/Excel/VentaGeneral2022agosto.xlsx)
+## Screenshot
+<div style="top: 10px; right: 10px;">
+  <a href="Venta_general_Region-Gerencia.jpg" target="_blank">
+  <img src="Venta_general_Region-Gerencia.jpg" style="width:220px; height:auto; border-radius:8px;">
+</div>
+
+## [Descargar archivo ](proyects/Excel/VentaGeneral2022agosto.xlsx)
 
 ## [← Regresar a Proyectos/Excel](../Excel/index.md)
