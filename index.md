@@ -4,7 +4,7 @@ Bienvenido a mi portafolio profesional, donde presento proyectos desarrollados c
 
 ## Sobre mí
 
-Profesional orientado al **análisis de datos**, con experiencia en diseño, automatización y optimización de reportes que mejoran la eficiencia operativa y facilitan la toma de decisiones.  
+Profesional con amplia experiencia y trayectoria, orientado al **análisis de datos**, con especialidad en diseño, automatización y optimización de reportes que mejoran la eficiencia operativa y facilitan la toma de decisiones.  
 Mi trayectoria incluye logística, soporte técnico y gestión operativa, lo que me permite comprender procesos de negocio de forma integral y generar soluciones basadas en información confiable.  
 Combino habilidades analíticas con una visión práctica para transformar datos en acciones.
 
