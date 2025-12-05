@@ -17,5 +17,5 @@ Objetivo: dar visibilidad de la rentabilidad, utilidad y porcentage de crecimien
 ## Resultados
 Poporcionar la visibilidad requerida de la situación financiera con respecto a periodos anteriores (mes, año) con el fin de facilitar la toma de desiciones estratégicas.
 
-## Archivos
+## Archivo
 - [Dashboar de de rentabilidad](proyects/Excel/Rentabilidad.xlsx)
