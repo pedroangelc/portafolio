@@ -18,3 +18,5 @@ Porporcionar visibilidad gráfica de la venta del periodo solicitado para realiz
 
 ## Archivos
 - [Venta General 2022](proyects/Excel/VentaGeneral2022agosto.xlsx)
+
+## [← Regresar a Proyectos/Excel](../Excel/index.md)
