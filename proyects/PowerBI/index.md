@@ -1,3 +1,3 @@
 # En construcción
 
-## [← Regresar al Proyectos](../proyects.md)
+## [← Regresar a Proyectos](../proyects.md)
